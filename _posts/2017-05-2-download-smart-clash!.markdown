@@ -1,12 +1,11 @@
-----
--layout: post
--title:  "Download SMart Clash latest!"
+---
+layout: post
+title:  "Download SMart Clash latest!"
 -date:   2017-05-02 21:32:40 +0200
--img:
--description: Smart Clash is an online server which gives players to experience the best in class hacked clash of Clans gameplay. Come on, download the APK and start playing on our server for FREE
--categories: announcements
-----
-
+img:
+description: Smart Clash is an online server which gives players to experience the best in class hacked clash of Clans gameplay. Come on, download the APK and start playing on our server for FREE
+categories: announcements
+---
 <a href="#about"></a>
 #[About](#about)
 
