@@ -1,9 +1,10 @@
 <div id="disqus_thread"></div>
 <script>
-  var url = window.location.href;
+  var path = window.location.pathname;
+
   var disqus_config = function () {
-  this.page.url = 'www.smarthacksinc.com';
-  this.page.identifier = url;
+    this.page.url = 'www.smarthacksinc.com';
+    this.page.identifier = 'www.smarthacksinc.com' + path;
   };
 
   (function() { // DON'T EDIT BELOW THIS LINE
