@@ -33,7 +33,7 @@ Smart Clash is an online server which gives players to experience the best in cl
 
 You can download the latest game app by clicking the link below :wink:
 
->If you like our server, then please vote us by <kbd>[clicking me](http://viid.me/ql8Qje)</kbd>
+>If you like our server, then please vote us by [clicking me](http://viid.me/ql8Qje)
 
 * ***[CLICK HERE TO DOWNLOAD](http://viid.me/qlEMFB)***
 
