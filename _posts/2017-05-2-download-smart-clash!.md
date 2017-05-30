@@ -35,7 +35,7 @@ You can download the latest game app by clicking the link below :wink:
 
 >If you like our server, then please vote us by [clicking me](http://viid.me/ql8Qje)
 
-* ***[CLICK HERE TO DOWNLOAD](http://viid.me/qlEMFB)***
+* ***[CLICK HERE TO DOWNLOAD](http://clkmein.com/qGXgts)***
 
 <a href="features"></a>
 # [Features](#features)
@@ -64,4 +64,4 @@ You can download the latest game app by clicking the link below :wink:
 * Changed background task manager.
 * Added server restarter.
 * Implemented automatic server fixer if something goes wrong.
-* Improved to handle 80000 Players (and it does more than that :yellow_heart:
+* Improved to handle 80000 Players (and it does more than that)
